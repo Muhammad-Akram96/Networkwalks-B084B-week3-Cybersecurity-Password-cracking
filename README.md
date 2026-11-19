@@ -1,5 +1,5 @@
 
-# 🛡️ Cybersecurity Internship – Week 03
+# 🛡️ Cybersecurity – Week 03
 
 <h3 align="center">🔐 Password Cracking & Password Security</h3>
 
@@ -13,7 +13,7 @@
 
 ## 📌 Overview
 
-Welcome to my **Week 03 Cybersecurity Internship** repository!
+Welcome to my **Week 03 Cybersecurity ** repository!
 
 This week, I explored password security and password auditing through hands-on practical exercises using John the Ripper (JTR) and Networkwalks tools.
 
@@ -105,7 +105,7 @@ All practical activities were performed for educational purposes within the auth
 
 ## 👨‍💻 About Me
 
-**Alam Khan**
+**Muhammad Akram**
 
 🎓 IT Student  
 🛡️ Cybersecurity Enthusiast  

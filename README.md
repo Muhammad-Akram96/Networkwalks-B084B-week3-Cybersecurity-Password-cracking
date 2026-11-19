@@ -49,15 +49,19 @@ The main objective was to understand password auditing concepts and gain practic
 
 ---
 
-## 🏆 Achievements & Practical Evidence
+## 🏆 Practical Achievements
 
-### 1️⃣ John the Ripper – Flag Captured
+### 🔐 1. Password Cracking with John the Ripper (JTR)
 
-![JTR Achievement](Screenshots/JTR/jtr-flag-captured.jpg)
+Successfully completed the JTR practical and captured the challenge flag.
 
-### 2️⃣ Networkwalks Tools – Flag Captured
+![JTR Flag Captured](ps1cracked.jpg)
 
-![Networkwalks Achievement](Screenshots/Networkwalks/networkwalks-flag-captured.jpg)
+### 🛡️ 2. Password Cracking with Networkwalks Tools
+
+Successfully completed the Networkwalks practical and captured the challenge flag.
+
+![Networkwalks Flag Captured](ps2cracked.jpg)
 
 ---
 
